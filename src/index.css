@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&family=Satisfy&family=Sedan+SC&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Sedan SC", serif;
+}
